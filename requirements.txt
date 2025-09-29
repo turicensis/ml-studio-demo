@@ -3,5 +3,5 @@ pycaret==3.3.2
 pandas
 scikit-learn
 matplotlib
-xgboost
-lightgbm
+xgboost==1.7.6
+lightgbm==4.1.0
